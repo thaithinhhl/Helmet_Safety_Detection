@@ -1,4 +1,4 @@
-# Helmet_Safety_Detection.
+
 # Helmet Detection with YOLOv10
 
 ## Overview
